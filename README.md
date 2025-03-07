@@ -1,0 +1,1 @@
+### Список доменов https://github.com/itdoginfo/allow-domains/blob/main/Russia/inside-dnsmasq-nfset.lst без youtube
